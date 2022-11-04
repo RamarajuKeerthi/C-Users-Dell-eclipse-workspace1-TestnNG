@@ -10,7 +10,7 @@ public class kk {
 		System.out.print("enater phnum ");
 		long phnum=S.nextLong();
 		//this is change to xpath
-		//ramaraju
+		
 		
 		System.out.print( "enater password");
 			long password=S.nextLong();
