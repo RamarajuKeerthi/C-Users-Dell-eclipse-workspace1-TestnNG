@@ -7,7 +7,7 @@ public class kk {
 	public static void main(String[] args)
 	{
 		Scanner S=new Scanner(System.in);
-		System.out.print("enater phnum ");
+		System.out.print("phone number ");
 		long phnum=S.nextLong();
 		//this is change to xpath
 		
